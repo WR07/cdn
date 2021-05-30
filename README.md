@@ -1,2 +1,2 @@
-# cdncss
+# cdn
 belajar
